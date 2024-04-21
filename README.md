@@ -1,4 +1,4 @@
-FUEL AVERAGE CALCULATOR
+##FUEL AVERAGE CALCULATOR
 
 This program first prompts the user to select an option:
 
